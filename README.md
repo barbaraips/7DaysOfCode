@@ -1,3 +1,3 @@
-7DaysOfCode
+# #7DaysOfCode
 
-#7DaysOfCode challenge | @alura
+7DaysOfCode challenge | @alura
